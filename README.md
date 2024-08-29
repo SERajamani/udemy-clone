@@ -1,4 +1,4 @@
-# Udemy-clone
+
 
 # Udemy Clone - Single Page Website
 This project is a single-page website clone of the Udemy platform, built using basic HTML and CSS. The layout is designed with Flexbox to ensure a responsive and visually appealing user experience across various devices.
